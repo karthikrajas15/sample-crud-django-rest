@@ -1,4 +1,4 @@
-This contains sample crd operation with python Django REST API. Its a simple task manager application. You can add task, update the task, read and delete the task. 
+This contains sample CRUD operation with python Django REST API. Its a simple task manager application. You can add task, update the task, read and delete the task. 
 
 1) create virtual environment using the following command
 	python3 -m venv /path/vishgyanaenv
